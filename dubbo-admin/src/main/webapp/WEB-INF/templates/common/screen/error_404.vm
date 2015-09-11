@@ -69,7 +69,7 @@
                                                         <BR />
                                                         请尝试以下操作：</P>
                                                         <P>·Dubbo2.1已经升级，如果您收藏了之前dubbo的url链接请点击回到首页跳转<BR /><BR />
-                                                            ·单击<A href="/">
+                                                            ·单击<A href="$rootContextPath.getURI("/")">
                                                                 <font color="#BA1C1C">回到首页</font></A>链接，尝试其他链接。<BR />
                                                             </P>
 															<BR />
